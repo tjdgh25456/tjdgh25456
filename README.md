@@ -1,12 +1,13 @@
 ### SungHo Jung (정성호)
 
-Android Developer at **SD BIOSENSOR** · BLE & Medical Device Specialist
+Android Developer · BLE & Medical Device Specialist
 
 I design BLE communication architectures for medical device apps across Android and iOS.
-Currently building a CGM (Continuous Glucose Monitor) app serving patients in 4 countries.
+Currently building a health monitoring app serving patients in multiple countries.
 
+- Android / iOS dual-platform BLE architecture design
 - 5 BLE projects (medical devices, IoT, healthcare)
-- Clean Architecture + Multi-module design
+- Clean Architecture + Multi-module + SSOT design
 - Background service optimization for long-running BLE connections
 - Patent holder (2 filed) · Medical device certification (2 approved)
 
@@ -18,9 +19,11 @@ Currently building a CGM (Continuous Glucose Monitor) app serving patients in 4 
 
 **Android**: Kotlin · Jetpack Compose · Hilt · Room · Coroutines/Flow · WorkManager · BLE GATT
 
-**Architecture**: Clean Architecture · MVVM · Multi-Module
+**Architecture**: Clean Architecture · MVVM · MVI · Multi-Module · SSOT
 
-**Also**: Swift · SwiftUI · React · TypeScript
+**iOS**: Swift · SwiftUI · TCA (The Composable Architecture) · Feature Modularization
+
+**Also**: React · TypeScript · Supabase
 
 ---
 
